@@ -56,8 +56,6 @@ In this line graph, it's interesting to see because it looks like the percentage
 
 One challenge I came across was trying to get the graph looking like the example we were shown, but it wasn't working because I accidentally graphed and used the pledged column at first rather than using the goal column. After doing that, the graph looked a LOT better. Other small mistakes I had to catch myself in were just making sure that the functions in these calculations were correct because I even caught myself missing a comma which easily made my argument pointless.
 
-### Challenges and Difficulties Encountered
-
 ## Results
 One conclusion we can draw from the Theater Outcomes by Launch Date is that people tend to do more and be out of the house a lot more when the weather is warm, allowing such campaigns that start during warm weather to have a higher chance of success. Another conclusion is that there are also more travelers during warm weather and most schools tend to have vacations right around early summer time.
 
